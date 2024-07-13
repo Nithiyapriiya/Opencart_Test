@@ -1,0 +1,11 @@
+18:29:04.439 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+18:29:04.559 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:29:18.837 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:29:18.941 [main] ERROR testcases.TC01_Accountregistrationtest - Test Failed
+18:30:44.020 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:30:44.139 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:30:44.794 [main] ERROR testcases.TC01_Accountregistrationtest - Test Failed
+18:32:59.058 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:32:59.169 [main] ERROR testcases.TC01_Accountregistrationtest - Test Failed
+18:34:22.375 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:34:22.502 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register

@@ -1,0 +1,56 @@
+17:00:47.364 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+17:00:50.158 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+17:00:51.950 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+17:00:52.520 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+17:00:52.882 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+17:00:53.248 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
+17:00:54.407 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+17:00:54.623 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:11:49.080 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:11:49.122 [main] ERROR testcases.TC01_Accountregistrationtest - Test Failed
+18:14:00.602 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:14:05.512 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:14:07.334 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+18:14:07.811 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+18:14:08.178 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+18:14:08.323 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
+18:14:10.259 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+18:14:10.364 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:16:32.360 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:16:36.636 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:16:38.383 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+18:16:38.889 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+18:16:39.251 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+18:16:39.623 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
+18:16:41.200 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+18:16:41.300 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:21:50.075 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:21:54.222 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:21:56.246 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+18:21:56.658 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+18:21:57.191 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+18:21:57.450 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
+18:21:59.267 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+18:21:59.380 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:26:58.237 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:27:02.534 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:27:04.286 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+18:27:04.636 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+18:27:04.949 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+18:27:05.464 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
+18:27:08.293 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+18:27:08.392 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:27:29.652 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:27:34.256 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:27:36.057 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+18:27:36.430 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+18:27:36.778 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+18:27:37.144 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
+18:27:38.666 [main] INFO  testcases.TC01_Accountregistrationtest - clicked on continue
+18:27:38.762 [main] INFO  testcases.TC01_Accountregistrationtest - Stopped TC01
+18:28:54.034 [main] INFO  testcases.TC01_Accountregistrationtest - Starting TC01
+18:28:59.726 [main] INFO  testcases.TC01_Accountregistrationtest - Clicked on my account and Register
+18:29:01.517 [main] INFO  testcases.TC01_Accountregistrationtest - Firstname and Lastname given
+18:29:02.030 [main] INFO  testcases.TC01_Accountregistrationtest - Email address and phone number given
+18:29:02.464 [main] INFO  testcases.TC01_Accountregistrationtest - Password entered
+18:29:02.853 [main] INFO  testcases.TC01_Accountregistrationtest - Checked the policy
